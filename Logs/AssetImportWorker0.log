@@ -238,3 +238,153 @@ Received Import Request.
 Start importing Assets/Scenes/MainMenuAxel.unity using Guid(e14f3873cec3d47b9b75c96567b94560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebeed8838b9a4b25d0480fef56f5a3fe') in 0.011458 seconds
   Import took 0.038971 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006666 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.234 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.4 MB.
+System memory in use after: 139.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 2.323665 ms (FindLiveObjects: 0.266478 ms CreateObjectMapping: 0.056058 ms MarkObjects: 1.976078 ms  DeleteObjects: 0.024131 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 11535.112665 seconds.
+  path: Assets/Scripts/MainMenuAxel.cs
+  artifactKey: Guid(c457fee7f0d1e4cea97485210d106b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenuAxel.cs using Guid(c457fee7f0d1e4cea97485210d106b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d15d722996733b725bbaefe4146b57') in 0.591080 seconds
+  Import took 0.657581 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004079 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.9 MB.
+System memory in use after: 144.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1851.
+Total: 6.174473 ms (FindLiveObjects: 0.571197 ms CreateObjectMapping: 0.060712 ms MarkObjects: 5.504192 ms  DeleteObjects: 0.036381 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.258785 seconds.
+  path: Assets/Scripts/MainMenuAxel.cs
+  artifactKey: Guid(c457fee7f0d1e4cea97485210d106b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenuAxel.cs using Guid(c457fee7f0d1e4cea97485210d106b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6457074946f09eab215b833781326f74') in 0.027379 seconds
+  Import took 0.031960 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.333 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.0 MB.
+System memory in use after: 144.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1854.
+Total: 2.159638 ms (FindLiveObjects: 0.242083 ms CreateObjectMapping: 0.053662 ms MarkObjects: 1.825932 ms  DeleteObjects: 0.036885 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007657 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 144.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1857.
+Total: 1.763253 ms (FindLiveObjects: 0.148459 ms CreateObjectMapping: 0.119185 ms MarkObjects: 1.477930 ms  DeleteObjects: 0.016609 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.130 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 144.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1860.
+Total: 2.001084 ms (FindLiveObjects: 0.205168 ms CreateObjectMapping: 0.035525 ms MarkObjects: 1.744127 ms  DeleteObjects: 0.015420 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 298.254927 seconds.
+  path: Assets/Scenes/MainMenuAxel.unity
+  artifactKey: Guid(e14f3873cec3d47b9b75c96567b94560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenuAxel.unity using Guid(e14f3873cec3d47b9b75c96567b94560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a45eb22495245b59c8ef400f5224d8cf') in 0.019543 seconds
+  Import took 0.026307 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007874 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.234 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 145.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1863.
+Total: 2.491271 ms (FindLiveObjects: 0.206161 ms CreateObjectMapping: 0.062937 ms MarkObjects: 2.187807 ms  DeleteObjects: 0.032852 ms)
+
